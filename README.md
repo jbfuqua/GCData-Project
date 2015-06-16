@@ -26,5 +26,7 @@ The output is a file titled 'tidy_data.txt'
 In the 'UCI HAR Dataset' directory:
 
 README.txt: Describes the contents of the directory and subdirectories
+
 features_info.txt: describes the variable data
+
 activity_labels.txt: provides descriptive labels for the activities measured
